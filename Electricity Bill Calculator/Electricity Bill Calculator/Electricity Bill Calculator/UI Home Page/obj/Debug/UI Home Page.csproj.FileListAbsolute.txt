@@ -1,0 +1,209 @@
+D:\UI Home Page\UI Home Page\bin\Debug\UI Home Page.exe.config
+D:\UI Home Page\UI Home Page\bin\Debug\UI Home Page.exe
+D:\UI Home Page\UI Home Page\bin\Debug\UI Home Page.pdb
+D:\UI Home Page\UI Home Page\obj\Debug\UI Home Page.csproj.AssemblyReference.cache
+D:\UI Home Page\UI Home Page\obj\Debug\UI Home Page.csproj.SuggestedBindingRedirects.cache
+D:\UI Home Page\UI Home Page\obj\Debug\UI_Home_Page.Form1.resources
+D:\UI Home Page\UI Home Page\obj\Debug\UI_Home_Page.Properties.Resources.resources
+D:\UI Home Page\UI Home Page\obj\Debug\UI Home Page.csproj.GenerateResource.cache
+D:\UI Home Page\UI Home Page\obj\Debug\UI Home Page.csproj.CoreCompileInputs.cache
+D:\UI Home Page\UI Home Page\obj\Debug\UI Home Page.exe
+D:\UI Home Page\UI Home Page\obj\Debug\UI Home Page.pdb
+D:\UI Home Page\UI Home Page\obj\Debug\UI_Home_Page.Properties.Login.resources
+D:\UI Home Page\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.resources
+D:\UI Home Page\UI Home Page\bin\Debug\de\UI Home Page.resources.dll
+D:\UI Home Page\UI Home Page\bin\Debug\en-US\UI Home Page.resources.dll
+D:\UI Home Page\UI Home Page\bin\Debug\ko-KP\UI Home Page.resources.dll
+D:\UI Home Page\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.de.resources
+D:\UI Home Page\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.en-US.resources
+D:\UI Home Page\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.ko-KP.resources
+D:\UI Home Page\UI Home Page\obj\Debug\de\UI Home Page.resources.dll
+D:\UI Home Page\UI Home Page\obj\Debug\en-US\UI Home Page.resources.dll
+D:\UI Home Page\UI Home Page\obj\Debug\ko-KP\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\bin\Debug\UI Home Page.exe.config
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\bin\Debug\UI Home Page.exe
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\bin\Debug\UI Home Page.pdb
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\bin\Debug\de\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\bin\Debug\en-US\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\bin\Debug\ko-KP\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Form1.resources
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.General_User.resources
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Industrial_User.resources
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Login.resources
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.resources
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Religious_User.resources
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Resources.resources
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.de.resources
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.en-US.resources
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.ko-KP.resources
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\de\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\en-US\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\ko-KP\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.exe
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.pdb
+C:\Users\Asus\Desktop\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_User.resources
+D:\UI Home Page - Copy\UI Home Page\bin\Debug\UI Home Page.exe.config
+D:\UI Home Page - Copy\UI Home Page\bin\Debug\UI Home Page.exe
+D:\UI Home Page - Copy\UI Home Page\bin\Debug\UI Home Page.pdb
+D:\UI Home Page - Copy\UI Home Page\bin\Debug\de\UI Home Page.resources.dll
+D:\UI Home Page - Copy\UI Home Page\bin\Debug\en-US\UI Home Page.resources.dll
+D:\UI Home Page - Copy\UI Home Page\bin\Debug\ko-KP\UI Home Page.resources.dll
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.AssemblyReference.cache
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.SuggestedBindingRedirects.cache
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Form1.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.General_User.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Industrial_User.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Login.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_User.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Religious_User.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Resources.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.de.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.en-US.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.ko-KP.resources
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.GenerateResource.cache
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.CoreCompileInputs.cache
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\de\UI Home Page.resources.dll
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\en-US\UI Home Page.resources.dll
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\ko-KP\UI Home Page.resources.dll
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.exe
+D:\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.pdb
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\bin\Debug\UI Home Page.exe.config
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\bin\Debug\UI Home Page.exe
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\bin\Debug\UI Home Page.pdb
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\bin\Debug\de\UI Home Page.resources.dll
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\bin\Debug\en-US\UI Home Page.resources.dll
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\bin\Debug\ko-KP\UI Home Page.resources.dll
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.AssemblyReference.cache
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.SuggestedBindingRedirects.cache
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Form1.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.General_User.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Industrial_User.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_Login.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_User.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Religious_User.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Select_Purpose.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.de.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.en-US.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.ko-KP.resources
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.GenerateResource.cache
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.csproj.CoreCompileInputs.cache
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\de\UI Home Page.resources.dll
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\en-US\UI Home Page.resources.dll
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\ko-KP\UI Home Page.resources.dll
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.exe
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI Home Page.pdb
+D:\3rd sem\c#\sft\UI Home Page - Copy\UI Home Page\obj\Debug\UI_Home_Page.Properties.Resources.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\bin\Debug\UI Home Page.exe.config
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\bin\Debug\UI Home Page.exe
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\bin\Debug\UI Home Page.pdb
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\bin\Debug\de\UI Home Page.resources.dll
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\bin\Debug\en-US\UI Home Page.resources.dll
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\bin\Debug\ko-KP\UI Home Page.resources.dll
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI Home Page.csproj.AssemblyReference.cache
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI Home Page.csproj.SuggestedBindingRedirects.cache
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.samplepg.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.General_User.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.Industrial_User.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_Login.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_User.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.Religious_User.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.Resources.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.Select_Purpose.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.de.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.en-US.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.ko-KP.resources
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI Home Page.csproj.GenerateResource.cache
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI Home Page.csproj.CoreCompileInputs.cache
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\de\UI Home Page.resources.dll
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\en-US\UI Home Page.resources.dll
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\ko-KP\UI Home Page.resources.dll
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI Home Page.exe
+C:\Users\ap002\Downloads\UI design Original\UI Home Page\obj\Debug\UI Home Page.pdb
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\bin\Debug\UI Home Page.exe.config
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\bin\Debug\UI Home Page.exe
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\bin\Debug\UI Home Page.pdb
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\bin\Debug\de\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\bin\Debug\en-US\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\bin\Debug\ko-KP\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.samplepg.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.General_User.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Industrial_User.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_Login.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_User.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Religious_User.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Resources.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Select_Purpose.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.de.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.en-US.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.ko-KP.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\de\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\en-US\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\ko-KP\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.exe
+C:\Users\Asus\Desktop\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.pdb
+D:\86\new\Electricity Bill Calculator\UI Home Page\bin\Debug\UI Home Page.exe.config
+D:\86\new\Electricity Bill Calculator\UI Home Page\bin\Debug\UI Home Page.exe
+D:\86\new\Electricity Bill Calculator\UI Home Page\bin\Debug\UI Home Page.pdb
+D:\86\new\Electricity Bill Calculator\UI Home Page\bin\Debug\de\UI Home Page.resources.dll
+D:\86\new\Electricity Bill Calculator\UI Home Page\bin\Debug\en-US\UI Home Page.resources.dll
+D:\86\new\Electricity Bill Calculator\UI Home Page\bin\Debug\ko-KP\UI Home Page.resources.dll
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.AssemblyReference.cache
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.SuggestedBindingRedirects.cache
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.samplepg.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.General_User.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Industrial_User.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_Login.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_User.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Religious_User.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Resources.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Select_Purpose.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.de.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.en-US.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.ko-KP.resources
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.GenerateResource.cache
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.CoreCompileInputs.cache
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\de\UI Home Page.resources.dll
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\en-US\UI Home Page.resources.dll
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\ko-KP\UI Home Page.resources.dll
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.exe
+D:\86\new\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.pdb
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.exe
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.pdb
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\bin\Debug\UI Home Page.exe.config
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\bin\Debug\UI Home Page.exe
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\bin\Debug\UI Home Page.pdb
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\bin\Debug\de\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\bin\Debug\en-US\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\bin\Debug\ko-KP\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.samplepg.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.General_User.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Industrial_User.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_Login.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Office_User.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Religious_User.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Resources.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Select_Purpose.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.de.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.en-US.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI_Home_Page.Properties.Registration.ko-KP.resources
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\UI Home Page.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\de\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\en-US\UI Home Page.resources.dll
+C:\Users\Asus\Desktop\Electricity Bill Calculator\Electricity Bill Calculator\UI Home Page\obj\Debug\ko-KP\UI Home Page.resources.dll
